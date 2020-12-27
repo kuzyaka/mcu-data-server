@@ -1,0 +1,15 @@
+/build.debug
+/build.release
+/build.test.debug
+/build.test.release
+/logs
+/*/logs
+**/.idea
+**/.vscode
+**/obj
+packages/
+*.suo
+*.user
+.vs
+.vs/config/applicationhost.config
+**/.vscode
